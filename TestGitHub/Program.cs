@@ -11,7 +11,7 @@ namespace TestGitHub
 
         static string Show()
         {
-            return "Master Branch";
+            return "Master Branch for 1st change";
         }
         static void Main(string[] args)
         {
