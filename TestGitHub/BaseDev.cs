@@ -10,7 +10,7 @@ namespace TestGitHub
     {
         public static string Show()
         {
-            return "Development Branch change";
+            return "Development Branch feature change";
         }
     }
 }
