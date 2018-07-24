@@ -8,5 +8,9 @@ namespace TestGitHub
 {
     class BaseDev
     {
+        public static string Show()
+        {
+            return "Development Branch change";
+        }
     }
 }
