@@ -15,7 +15,7 @@ namespace TestGitHub
         }
         static void Main(string[] args)
         {
-            Console.WriteLine(Show());
+            Console.WriteLine(Base.Show());
             Console.ReadKey();
         }
     }
