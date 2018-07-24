@@ -11,7 +11,7 @@ namespace TestGitHub
 
         static string Show()
         {
-            return "Development Branch for 1st change";
+            return "Development Branch change";
         }
         static void Main(string[] args)
         {
