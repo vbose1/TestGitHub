@@ -9,13 +9,10 @@ namespace TestGitHub
     class Program
     {
 
-        static string Show()
-        {
-            return "Development Branch change";
-        }
+        
         static void Main(string[] args)
         {
-            Console.WriteLine(Base.Show());
+            Console.WriteLine(BaseDev.Show());
             Console.ReadKey();
         }
     }
